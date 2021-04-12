@@ -25,4 +25,4 @@
 
 4.安装Linux发行版
 
-5.安装docker。
+二.安装docker。
