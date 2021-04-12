@@ -2,12 +2,8 @@
 4月组队
 
 
-安装WSL
+一、安装WSL
 
-
-
-
-Before you install the Docker Desktop WSL 2 backend, you must complete the following steps:
 
 1.电脑windows版本为20H2，符合WSL2的安装条件。
 
@@ -23,6 +19,9 @@ Before you install the Docker Desktop WSL 2 backend, you must complete the follo
 
 `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
 
-    重启电脑完成 WSL2 的安装
+重启电脑完成 WSL2 的安装
     
 3.下载并安装 Linux 内核更新包。
+
+4.安装Linux发行版
+
